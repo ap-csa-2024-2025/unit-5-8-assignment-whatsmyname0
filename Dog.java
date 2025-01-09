@@ -4,6 +4,11 @@ public class Dog
   private int ID;
   private static int numDogs = 0;
 
+  public Dog()
+  {
+    
+  }
+
   // Non-default Dog constructor
 
   // Default Dog constructor
